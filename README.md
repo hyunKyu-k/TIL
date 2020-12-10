@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhankyeolk%2FTIL&count_bg=%23C040F4&title_bg=%23FF7676&icon=mediafire.svg&icon_color=%23E7E7E7&title=TIL+hits&edge_flat=false)](https://hits.seeyoufarm.com)<br />
 
-매일 공부한 내용을 기록합니다. **기억은 간사하여 기록으로 혼내주려고 합니다.** 
+매일 공부한 내용을 기록합니다. **기억은 보단 기록으로 남기려고 합니다.** 
 
 🤩 [hankyeolk](https://github.com/hankyeolk/TIL)님, [Integerous](https://github.com/Integerous/TIL)님의 TIL을 많이 보면서 영감을 얻었습니다. **정말 감사합니다.**
 
