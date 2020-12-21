@@ -1,6 +1,6 @@
 # TIL
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhankyeolk%2FTIL&count_bg=%23C040F4&title_bg=%23FF7676&icon=mediafire.svg&icon_color=%23E7E7E7&title=TIL+hits&edge_flat=false)](https://hits.seeyoufarm.com)<br />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeFabian%2FTIL&count_bg=%23C040F4&title_bg=%23FF7676&icon=mediafire.svg&icon_color=%23E7E7E7&title=TIL+hits&edge_flat=false)](https://hits.seeyoufarm.com)<br />
 
 매일 공부한 내용을 **기억은 보단 기록으로 남기려고 합니다.** 
 
