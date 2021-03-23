@@ -1,7 +1,3 @@
-## baseball game
-
-<br>
-
 ### Link 
 
 [click to leetcode](https://leetcode.com/problems/baseball-game/)  
