@@ -2,7 +2,10 @@
 
 <br>
 
-![click to leetcode]("https://leetcode.com/problems/baseball-game/")
+### Link 
+
+[click to leetcode](https://leetcode.com/problems/baseball-game/)  
+
 
 <br>
 
