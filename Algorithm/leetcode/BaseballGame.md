@@ -2,7 +2,7 @@
 
 <br>
 
-[click to leetcode]("https://leetcode.com/problems/baseball-game/")
+![click to leetcode]("https://leetcode.com/problems/baseball-game/")
 
 <br>
 
