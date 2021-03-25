@@ -2,7 +2,8 @@
 
 <br>
 
-[click to programmers]("https://programmers.co.kr/learn/courses/30/lessons/49993")
+
+[click to programmers](https://programmers.co.kr/learn/courses/30/lessons/49993)
 
 <br>
 
