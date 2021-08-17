@@ -4,7 +4,7 @@
 
 매일 공부한 내용을 **기억은 보단 기록으로 남기려고 합니다.** 
 
-🤩 [hankyeolk](https://github.com/hankyeolk/TIL)님, [Integerous](https://github.com/Integerous/TIL)님의 TIL을 많이 보면서 영감을 얻었습니다. **정말 감사합니다.**
+🤩 [hankyeolk](https://github.com/hankyeolk)님, [Integerous](https://github.com/Integerous/TIL)님의 TIL을 많이 보면서 영감을 얻었습니다. **정말 감사합니다.**
 
 <br />
 
