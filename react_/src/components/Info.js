@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 
 const Info = ({ color, movie }) => {
-    const colorKor = getColorKor(color);
-    const movieGenreKor = getMovieGenreKor(movie);
+    const colorKor = useMemo(() => getColorKor(color), [color])
+    const movieGenreKor = useMemo(() => getMovieGenreKor(movie), [movie])
 
     return (
         <div>
